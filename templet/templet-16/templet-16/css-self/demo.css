@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*** 750模板样式***/
+
+.templet-16 { width:750px; height:500px; }
+.templet-16 .title .img { background:url(../img/%E7%BE%8E%E9%A3%9F.png) no-repeat 0px -76px transparent; float:left; display:block;}
+.templet-16 .groupon-main {float: left; width:592px; height:370px; overflow:hidden}
+.templet-16 .groupon-buy{display: inline;float: left;overflow: hidden;width: 263px; margin:0 6px 0 10px; text-align:left}
+.templet-7 .groupon-price{background: url(http://img.huanleguang.com/smart/tuangou/templet-7-1.jpg) no-repeat scroll 0px 0 transparent;width: 263px; height:77px;}
