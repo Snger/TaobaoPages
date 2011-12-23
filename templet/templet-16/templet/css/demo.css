@@ -15,30 +15,29 @@ h1,dt{ font-size:14px; font-weight:bold; color:#000; text-indent:20px;line-heigh
 /*** 750模板样式***/
 
 .templet-16 { width:748px; height:458px; }
-.templet-16 .title{ font-family: "微软雅黑"; font-size:26px; line-height:36px; font-weight:bold; width:700px; height:70px; overflow:hidden; text-align:left; margin:10px auto}
-.templet-16 .title .img{display:block; float:left; width:118px; height:49px; margin:10px 20px 0 0;background: url(http://img.huanleguang.com/smart/tuangou/templet-16-1.jpg) no-repeat scroll 0px -76px transparent;}
-.templet-16 .title .text{ width:555px; height:70px; overflow:hidden; text-align:left; float:left; display:block;}
 .templet-16 .groupon-main {float: left; width:592px; height:370px; overflow:hidden}
-.templet-16 .groupon-buy{display: inline;float: left;overflow: hidden;width: 263px; margin:0 6px 0 10px; text-align:left}
-.templet-16 .groupon-price{background: url(http://img.huanleguang.com/smart/tuangou/templet-16-1.jpg) no-repeat scroll 0px 0 transparent;width: 263px; height:77px;}
-.templet-16 .groupon-price .price{ display:block; width:120px; font: bold 30px "微软雅黑",Arial; color:#FFF; float:left; height:55px; line-height:50px; text-align:left; margin:0 0px 0 20px; _margin:0 0px 0 10px; overflow:hidden;}
-.templet-16 .groupon-price .buying{ display:block; width:100px;height:40px;float:right; margin:8px 5px 0 0px;}
-.templet-16 .groupon-fold{ height:50px; width:233px; background:#FFFBF4; border:1px  solid #FDE6DA; border-top:0; margin-left:13px; color:#666}
+.templet-16 .jieshao { width:580px; height:50px; font-size:14px; color:#666666; font-family:'微软雅黑'; margin:10px;}
+
+.templet-16 .groupon-buy{display: inline;float: left;overflow: hidden;width: 263px; height:310px; margin:0 6px 0 10px; text-align:left}
+.templet-16 .groupon-fold{ height:60px; width:233px; background:white; border-bottom:1px solid #ddd; margin-top:15px; margin-left:13px; color:#666}
 .templet-16 .groupon-fold div{ float:left; margin:0px 0 0 8px; width:66px; height:35px;overflow: hidden; text-align:center;}
 .templet-16 .groupon-fold div span{ font-weight:bold;}
 .templet-16 .groupon-fold .js{}
 .templet-16 .groupon-fold .js span{ color:#F73D00;}
 .templet-16 .groupon-fold .scj{ text-decoration: line-through; color:#333}
 .templet-16 .groupon-fold .zkj span{ color:#333}
-.templet-16 .groupon-info{ height:210px; width:233px; background:#FFFBF4; border:1px  solid #FDE6DA; margin:10px 0 10px 13px; text-align:center}
-.templet-16 .groupon-info .people{width:190px; margin:8px auto;border-bottom:1px dotted #FDE6DA; color:#666; line-height:30px; }
+.templet-16 .groupon-info{ height:250px; width:233px; background:#FFFBF4; border:1px  solid #FDE6DA; margin:10px 0 10px 13px; text-align:center}
+.templet-16 .groupon-info .people{width:190px; height:40px; margin:8px auto;border-bottom:1px dotted #FDE6DA; color:#666; line-height:40px; }
 .templet-16 .groupon-info .people b{ color:#F73D00; font: bold 20px "微软雅黑",Arial; }
+.templet-16 .groupon-price{background: url(../images/templet-16-1.jpg) no-repeat scroll 0px 0 transparent;width: 263px; height:73px; margin-top:15px; margin-bottom:15px;}
+.templet-16 .groupon-price .price{ display:block; width:120px; font: bold 30px "微软雅黑",Arial; color:#FFF; float:left; height:55px; line-height:50px; text-align:left; margin:0 0px 0 20px; _margin:0 0px 0 10px; overflow:hidden;}
+.templet-16 .groupon-price .buying{ display:block; width:100px;height:40px;float:right; margin:8px 5px 0 0px;}
 .templet-16 .groupon-info .start-buy{width:190px; margin:28px auto;border-bottom:1px dotted #FDE6DA; padding-bottom:10px; font-size:18px; color: #093; font-weight:bold; line-height:40px; text-align: center; }
 .templet-16 .groupon-info .miss{width:190px; margin:28px auto;border-bottom:1px dotted #FDE6DA; padding-bottom:10px; font-size:18px; color: #666; font-weight:bold; line-height:40px; text-align: center; }
 .templet-16 .groupon-info .time{border-bottom:1px dotted #FDE6DA; width:190px; margin:0px auto; padding-bottom:16px; line-height:30px;color:#666;}
 .templet-16 .groupon-info .time span{ font-size:32px; color:#DC442F;}
 .templet-16 .groupon-info .succeed{background: url(http://img.huanleguang.com/smart/tuangou/templet-16-1.jpg) no-repeat scroll -124px -106px transparent;width: 180px; color:#333; font-weight:bold; height:25px; margin:16px auto 0 auto; text-align:center; text-indent:18px}
-.templet-16 .groupon-pic {float:left;width:310px;height:310px;border:solid 1px #FA9B4D;text-align:center;}
+.templet-16 .groupon-pic{ float:left;width:310px;height:310px;border:solid 1px #FA9B4D;text-align:center;}
 .templet-16 .groupon-pic a{display:table-cell;width:310px;height:310px;vertical-align:middle;*display:block;*font-family:Arial!important;*font-size:271px;*line-height:1;}
 .templet-16 .groupon-pic a img{vertical-align:middle;max-width:310px;max-height:310px;}
 
