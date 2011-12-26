@@ -1,5 +1,6 @@
 ignore
 /ignore
+*/ignore/*
 */img/*
 */images/*
 */image/*
@@ -11,3 +12,5 @@ ignore
 *.JPEG
 *.PSD
 *.psd
+*.gif
+*.GIF

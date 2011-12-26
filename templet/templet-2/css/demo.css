@@ -3,22 +3,29 @@
 
 /* 容器样式 */
 .w-190 {overflow:hidden; width:190px; height:500px;}
-.w-750 {overflow:hidden; width:750px; height:500px;}
+.w-750 {overflow:hidden; width:750px; height:420px;}
 .w-950 {overflow:hidden; width:950px; height:500px;}
 
 /*** 750模板样式***/
-.templet-2 .groupon-main {float: left; width:750px; height:330px; overflow:hidden}
+.templet-2 .groupon-main {float: left; width:750px; height:312px; overflow:hidden}
 .templet-2 img {border:none;}
 .templet-2 ul { list-style-type:none; padding-left:0; display:inline;}
 .templet-2 li { display:block; float:left;}
-.templet-2 .groupon-main .groupon-pic{ float:left;width:310px;height:310px;border:solid 1px #FA9B4D;text-align:center; margin:5px 10px auto 5px;}
-.templet-2 .groupon-main .groupon-buy { width:420px; height:310px; float:left; margin:0; padding:0;}
-.templet-2 .groupon-main .groupon-buy .groupon-info {margin-top:0; height:120px;}
-.templet-2 .groupon-main .groupon-buy .groupon-info .head { font-size:30px; color:#ec5564; font-family:"微软雅黑"; font-weight:bold;}
-.templet-2 .groupon-main .groupon-buy .groupon-info .p {font-family:"微软雅黑"; font-weight:bold; color:#5d5d5d; font-size:22px;}
-.templet-2 .groupon-main .groupon-buy .groupon-price {font-size:12px; color:#929292; height:80px;}
+.templet-2 .groupon-main .groupon-pic{ float:left;width:310px;height:310px;border:solid 1px #FA9B4D;text-align:center; margin:0px 10px auto 5px;}
+.templet-2 .groupon-main .groupon-buy { width:420px; height:312px; float:left; margin:0; padding:0; overflow:hidden;}
+.templet-2 .groupon-main .groupon-buy .groupon-info {margin-top:0; height:120px; width:420px; font-family:"微软雅黑";}
+.templet-2 .groupon-main .groupon-buy .groupon-info .head { font-size:30px; color:#ec5564; font-weight:bold;}
+.templet-2 .groupon-main .groupon-buy .groupon-info .p { font-weight:bold; color:#5d5d5d; font-size:22px;}
+.templet-2 .groupon-main .groupon-buy .groupon-price {font-size:12px; color:#929292; height:60px; width:420px; vertical-align:middle;}
 .templet-2 .groupon-main .groupon-buy .groupon-price .rmb {color:#585858; font-size:14px; font-family:"微软雅黑";}
-.templet-2 .groupon-main .groupon-buy .groupon-price .price { font-size:20px; color:#ec5564; font-family:"微软雅黑";}
-.templet-2 .groupon-main .groupon-buy .groupon-social {overflow:hidden; height:110px;}
+.templet-2 .groupon-main .groupon-buy .groupon-price .price { font-size:20px; color:#ec5564; font-family:"微软雅黑"; line-height:40px;}
+.templet-2 .groupon-main .groupon-buy .groupon-social {overflow:hidden; height:110px; width:420px;}
 .templet-2 .groupon-main .groupon-buy .groupon-social a { font-size:12px; color:#ec5564; text-decoration:none;}
 .templet-2 .groupon-main .groupon-buy .groupon-social textarea {width:350px; height:20px; overflow:hidden; border-color:#ec5564;}
+
+.templet-2 .groupon-baobei-list { width:750px; height:85px;}
+.templet-2 .groupon-baobei-list .current .pic { border:2px solid #FF0000;}
+.templet-2 .groupon-baobei-list li{ width:80px; height:80px; margin:10px;}
+.templet-2 .groupon-baobei-list li .pic{width:80px;height:80px;text-align:center; margin:5;}
+.templet-2 .groupon-baobei-list li .pic a{display:table-cell;width:80px;height:80px;vertical-align:middle;*display:block;*font-family:Arial!important;*font-size:70px;*line-height:1;}
+.templet-2 .groupon-baobei-list li .pic a img{vertical-align:middle;max-width:80px;max-height:80px;}
