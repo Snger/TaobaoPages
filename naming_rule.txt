@@ -2,6 +2,20 @@
 220 http://img03.taobaocdn.com/bao/uploaded/i3/T1gex.XeFHXXbr.XPa_090047.jpg_b.jpg
 310 http://img03.taobaocdn.com/bao/uploaded/i3/T1gex.XeFHXXbr.XPa_090047.jpg_310x310.jpg
 
+160 http://img05.taobaocdn.com/bao/uploaded/i5/T1JRGEXcRtXXbo8sPa_090435.jpg_160x160.jpg
+220 http://img05.taobaocdn.com/bao/uploaded/i5/T1JRGEXcRtXXbo8sPa_090435.jpg_b.jpg
+310 http://img05.taobaocdn.com/bao/uploaded/i5/T1JRGEXcRtXXbo8sPa_090435.jpg_310x310.jpg
+
+80 http://img06.taobaocdn.com/bao/uploaded/i6/T1cNqiXjXqXXcL4Y6a_120340.jpg_80x80.jpg
+160 http://img06.taobaocdn.com/bao/uploaded/i6/T1cNqiXjXqXXcL4Y6a_120340.jpg_160x160.jpg
+220 http://img06.taobaocdn.com/bao/uploaded/i6/T1cNqiXjXqXXcL4Y6a_120340.jpg_b.jpg
+310 http://img06.taobaocdn.com/bao/uploaded/i6/T1cNqiXjXqXXcL4Y6a_120340.jpg_310x310.jpg
+
+80 http://img03.taobaocdn.com/bao/uploaded/i3/T127l1XiXjXXcMjMZT_011744.jpg_80x80.jpg
+160 http://img03.taobaocdn.com/bao/uploaded/i3/T127l1XiXjXXcMjMZT_011744.jpg_160x160.jpg
+220 http://img03.taobaocdn.com/bao/uploaded/i3/T127l1XiXjXXcMjMZT_011744.jpg_b.jpg
+310 http://img03.taobaocdn.com/bao/uploaded/i3/T127l1XiXjXXcMjMZT_011744.jpg_310x310.jpg
+
 容    器：container/box 
 头    部：header 
 主 导 航：mainNav 
